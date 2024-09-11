@@ -1,6 +1,6 @@
 # Mansi Makwana
-[![Twitter Badge](https://img.shields.io/badge/-@maulikdadhania-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maulikdadhania)](https://twitter.com/maulikdadhania) [![Linkedin Badge](https://img.shields.io/badge/-maulikdadhaniya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulikdadhaniya/)](https://www.linkedin.com/in/maulikdadhaniya/)
-[![Gmail Badge](https://img.shields.io/badge/-maulik.dadhaniya1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maulik.dadhaniya1995@gmail.com)](mailto:maulik.dadhaniya1995@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mansi-makwana-14b094120-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mansi-makwana-14b094120/)]([https://www.linkedin.com/in/maulikdadhaniya/](https://www.linkedin.com/in/mansi-makwana-14b094120/))
+[![Gmail Badge](https://img.shields.io/badge/-mansimac75@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmansimac75@gmail.com)](mailto:mansimac75@gmail.com)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
