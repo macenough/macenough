@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
 ## Hi 👋, 
-I'm Maulik Dadhaniya, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
+I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript and Flutter
+- 🔭 I’m currently working on Flutter Technology
+- 🌱 I have total 6 years of experince and 3 years of experince in flutter.
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, Kotlin, Dart, Flutter
 
