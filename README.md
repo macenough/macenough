@@ -20,4 +20,4 @@ I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about m
 
 
 ---
-⭐️ From [Maulik Dadhaniya](https://github.com/maulikdadhaniya)
+⭐️ From [Mansi Makwana](https://github.com/macenough)
