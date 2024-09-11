@@ -1,7 +1,7 @@
 # Mansi Makwana
 [![Gmail Badge](https://img.shields.io/badge/-mansimac75@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmansimac75@gmail.com)](mailto:mansimac75@gmail.com)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="400px"/>
+<img align="right" alt="GIF" src="[https://lottie.host/embed/802f66c0-11f1-4125-8aa7-f39c834e14b9/e3P9iXuQDo.json]" width="400px"/>
 
 ## Hi 👋, 
 I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
