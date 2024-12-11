@@ -8,9 +8,9 @@ I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about m
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Flutter Technology
-- 🌱 Having 3 years of experince in flutter.
+- 🌱 Having 3.5 years of experince in flutter.
 - 😄 Pronouns: she/her
--  ⚡ Languages and Framework : Flutter, Dart, Getx, Firebase, Google Map, Socket.IO, Dio, Sqflite, Payment Gateway, Push Notification
+-  ⚡ Languages and Framework : Flutter, Dart, Provider, Getx, Firebase, Google Map, Socket.IO, Dio, Sqflite, Payment Gateway, Push Notification
 
 **Languages and Tools:**  
 
