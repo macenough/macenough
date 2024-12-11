@@ -4,13 +4,12 @@
 <img align="right" alt="GIF" src="[https://lottie.host/embed/802f66c0-11f1-4125-8aa7-f39c834e14b9/e3P9iXuQDo.json]" width="400px"/>
 
 ## Hi 👋, 
-I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
-🏄‍♂️. 
+I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source.
 
 - 🔭 I’m currently working on Flutter Technology
 - 🌱 Having 3.5 years of experince in flutter.
 - 😄 Pronouns: she/her
--  ⚡ Languages and Framework : Flutter, Dart, Third party packages, State Management[Provider, Bloc, Getx], Firebase[Firebase remote config], Google Map, Socket.IO, Flavours, Rest Api Integration[Dio,Http], Local storage[SQFLite,SharedPreferences], Payment Gateway[Razorpay,Stripe], Theme, Push Notification
+-  ⚡ Languages and Framework : Flutter, Dart, Third party packages, State Management[Provider, Bloc, Getx], Firebase[Firebase remote config], Google Map, Socket.IO, Flavours, Rest Api Integration[Dio,Http], Local storage [SQFLite,SharedPreferences], Payment Gateway[Razorpay,Stripe], Theme, Push Notification
 
 **Languages and Tools:**  
 
