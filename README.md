@@ -10,7 +10,7 @@ I'm Mansi Makwana, I'm a software engineer 👨‍💻 who is passionate about m
 - 🔭 I’m currently working on Flutter Technology
 - 🌱 Having 3.5 years of experince in flutter.
 - 😄 Pronouns: she/her
--  ⚡ Languages and Framework : Flutter, Dart, Third party packages, State Management[Provider, Bloc, Getx], Firebase, Google Map, Socket.IO, Flavours, Rest Api Integration[Dio,Http], Local storage[SQFLite,SharedPreferences], Payment Gateway[Razorpay,Stripe], Push Notification
+-  ⚡ Languages and Framework : Flutter, Dart, Third party packages, State Management[Provider, Bloc, Getx], Firebase[Firebase remote config], Google Map, Socket.IO, Flavours, Rest Api Integration[Dio,Http], Local storage[SQFLite,SharedPreferences], Payment Gateway[Razorpay,Stripe], Theme, Push Notification
 
 **Languages and Tools:**  
 
